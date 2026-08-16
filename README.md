@@ -11,7 +11,7 @@ A decision had to be made on how to handle the missing data and to what extent t
 
 Counted missing data:
 
-##
+## ![](check_NaN)
 
 And checked the percentage:
 
@@ -34,7 +34,7 @@ used “Unknown”
 
 The result as below, NaN solved. Decided not to drop any rows.
 
-## 
+## ![](data_cleaning_NaN)
 
 Also checked if there are any duplicates. In the analyzed Data Frame, no duplicates.
 
@@ -50,5 +50,5 @@ Please find below the results for the second case, where I check for weight outl
 
 Conclusion: As we can see, the highest weight has Gentoo Specie. In Chinstrap Specie we can see some outliers as below. There are two cases as below:
 
-##
+## ![](outliers_rows)
 
