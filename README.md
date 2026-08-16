@@ -26,7 +26,7 @@ bill_length_mm
 bill_depth_mm
 flipper_length_mm
 body_mass_g
-uded the average amounts according to what got for species.
+used the average amounts according to what got for species.
 
 For column:
 sex
